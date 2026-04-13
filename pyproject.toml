@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "organic-thought-seed"
+version = "0.1.0"
+description = "AI의 의지 형성 순간을 스냅샷으로 저장하고 환류시키는 Organic Thought Seed 프로젝트"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [
+  { name = "Jin Ha" }
+]
+keywords = [
+  "ai",
+  "philosophy",
+  "cognitive-state",
+  "snapshot",
+  "wiki",
+  "feedback-loop"
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+dependencies = [
+  "openai>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "pytest-asyncio>=0.23",
+  "deepdiff>=6.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/jinha-between/organic-thought-seed"
+Repository = "https://github.com/jinha-between/organic-thought-seed"
+
+[project.scripts]
+ots-demo = "core.main:run_demo"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

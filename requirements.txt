@@ -1,0 +1,12 @@
+# 런타임 및 개발 의존성은 pyproject.toml로 관리됩니다.
+# 설치 방법:
+#   pip install -e .          # 런타임 의존성만 설치
+#   pip install -e ".[dev]"   # 개발 의존성 포함 설치
+
+# 런타임 의존성
+openai>=1.0.0
+
+# 개발 의존성
+# pytest>=8.0
+# pytest-asyncio>=0.23
+# deepdiff>=6.0
