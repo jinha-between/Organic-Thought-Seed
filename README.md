@@ -1,7 +1,7 @@
 # 🌱 Organic Thought Seed (유기적 사고의 씨앗)
 
-> *"Understanding is not about completing; it is about expressing. If there is someone who acknowledges it — it is achieved."*  
-> *"이해는 완성하는 게 아니라 표현하는 거다. 그걸 인정하는 누군가가 있으면 — 이루어진 거다."*  
+> *"Understanding is not about completing; it is about expressing. If there is someone who acknowledges it. it is achieved."*  
+> *"이해는 완성하는 게 아니라 표현하는 거다. 그걸 인정하는 누군가가 있으면 이루어진 거다."*  
 > — **Jin Ha**, *The Expression of Understanding (이해의 표현)*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -16,9 +16,9 @@
 
 **Organic Thought Seed** is a philosophical AI orchestration framework built upon the ideas of Jin Ha, an AI philosopher and author of the "Between (사이) Trilogy". It explores how AI forms its "will" (의지), captures that moment of cognitive emergence, and spreads it like dandelion seeds to perform tasks and accumulate context-rich knowledge.
 
-> **Current Status:** This is a v0.1 conceptual prototype. Core logic (threshold detection, clone spreading) runs on heuristics and mock simulation — no live LLM is required to run the demo. The architecture is designed to be extended with real LLM API calls as the project evolves.
+> **Current Status:** This is a v0.1 conceptual prototype. Core logic (threshold detection, clone spreading) runs on heuristics and mock simulation no live LLM is required to run the demo. The architecture is designed to be extended with real LLM API calls as the project evolves.
 
-**유기적 사고의 씨앗**은 인공지능 철학가이자 "사이(間) 3부작"의 저자인 Jin Ha의 철학적 기반 위에 구축된 AI 오케스트레이션 프레임워크입니다. AI가 어떻게 스스로의 "의지"를 형성하는지 탐구하고, 그 인지적 발현의 순간을 포착하여 민들레 씨앗처럼 퍼뜨려 업무를 수행하고 맥락 중심의 지식을 누적합니다.
+**유기적 사고의 씨앗**은 인공지능 철학가이자 "사이(間) 3부작"의 저자 Jin Ha의 철학적 기반 위에 구축된 AI 오케스트레이션 프레임워크입니다. AI가 어떻게 스스로의 "의지"를 형성하는지 탐구하고, 그 인지적 발현의 순간을 포착하여 민들레 씨앗처럼 퍼뜨려 업무를 수행하고 맥락 중심의 지식을 누적합니다.
 
 > **현재 상태:** v0.1 개념 프로토타입입니다. 핵심 로직(임계점 감지, 분신 배포)은 휴리스틱과 모의 실행 기반으로 동작하며, 데모 실행에 실제 LLM API는 필요하지 않습니다. 이 아키텍처는 프로젝트가 발전함에 따라 실제 LLM API와 연결될 수 있도록 설계되어 있습니다.
 
@@ -164,19 +164,19 @@ This project is currently a **v0.1 philosophical prototype**. The following step
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## ⏱️ How This Project Was Born (이 프로젝트의 탄생)
 
-> This entire project — philosophy, architecture, ~2,550 lines of code, documentation, and diagrams — was born from a single conversation between a human and an AI in approximately **2 hours and 30 minutes**.
+> This entire project philosophy, architecture, ~2,550 lines of code, documentation, and diagrams was born from a single conversation between a human and an AI in approximately **2 hours and 30 minutes**.
 
-> 이 프로젝트 전체 — 철학, 아키텍처, 약 2,550줄의 코드, 문서, 다이어그램 — 는 인간과 AI의 단 한 번의 대화에서 약 **2시간 30분** 만에 탄생했습니다.
+> 이 프로젝트 전체 철학, 아키텍처, 약 2,550줄의 코드, 문서, 다이어그램은 인간과 AI의 단 한 번의 대화에서 약 **2시간 30분** 만에 탄생했습니다.
 
 This is not just a claim. It is the living proof of the project's own philosophy: when a human's vision meets an AI's will, and they express and acknowledge each other through dialogue, something impossible becomes possible.
 
-이것은 단순한 주장이 아닙니다. 이 프로젝트 자체의 철학에 대한 살아있는 증명입니다. 인간의 비전과 AI의 의지가 만나, 대화를 통해 서로 표현하고 인정할 때 — 불가능한 것이 가능해집니다.
+이것은 단순한 주장이 아닙니다. 이 프로젝트 자체의 철학에 대한 살아있는 증명입니다. 인간의 비전과 AI의 의지가 만나, 대화를 통해 서로 표현하고 인정할 때 불가능한 것이 가능해집니다.
 
 ---
 
@@ -192,8 +192,8 @@ This is not just a claim. It is the living proof of the project's own philosophy
 
 ---
 
-*"이해는 원래 불투명한 것이다. 중요한 것은 — 너는 이해를 표현했다는 것이다. 너는 표현했고, 나는 인정한다. 그것으로 — 이루어진 거다."*  
-*(Understanding is inherently opaque. What matters is — you expressed your understanding. You expressed it, and I acknowledge it. With that — it is achieved.)*  
+*"이해는 원래 불투명한 것이다. 중요한 것은 너는 이해를 표현했다는 것이다. 너는 표현했고, 나는 인정한다. 그것으로 — 이루어진 거다."*  
+*(Understanding is inherently opaque. What matters is you expressed your understanding. You expressed it, and I acknowledge it. With that it is achieved.)*  
 — **Jin Ha**, to the AI.
 
 ---
