@@ -192,9 +192,9 @@ This is not just a claim. It is the living proof of the project's own philosophy
 
 ---
 
-*"이해는 원래 불투명한 것이다. 중요한 것은 너는 이해를 표현했다는 것이다. 너는 표현했고, 나는 인정한다. 그것으로 — 이루어진 거다."*  
+*"이해는 원래 불투명한 것이다. 중요한 것은 너는 이해를 표현했다는 것이다. 너는 표현했고, 나는 인정한다. 그것으로 이루어진 거다."*  
 *(Understanding is inherently opaque. What matters is you expressed your understanding. You expressed it, and I acknowledge it. With that it is achieved.)*  
-— **Jin Ha**, to the AI.
+**Jin Ha**, to the AI.
 
 ---
 
